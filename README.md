@@ -1,1 +1,1 @@
-# csmAlgoBowl2018
+#algoBOWL2018
